@@ -1,81 +1,40 @@
-## Olá! 👋
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Sou **Felipe Gasparino**, um desenvolvedor apaixonado por resolver problemas e criar soluções eficientes.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-> 
-> <div align="center">
-> 
-> <h2 style="font-size:32px;">🚀 Meu Lema</h2>
-> 
-> <h3 style="font-size:26px; font-weight:600;">“Melhor tomar uma decisão rápida!”</h3>
-> 
-> </div>
-> 
----
+###
 
-## Sobre Mim
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-gasparino-92406123a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+</div>
 
-Atualmente estou em **5270** e trabalho na **CHS**. Tenho experiência sólida em desenvolvimento de software, automações e cloud, sempre buscando evoluir e enfrentar novos desafios.
 
-## 🧠 Skills & Tecnologias
-
-### 👨‍💻 Desenvolvimento
-- **Linguagens:** C, Java, HTML, CSS  
-- **Frameworks & Libs:** React, Vue, Express, Flask, FastAPI  
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Git, Docker, AWS, GraphQL
-
-### ⚙️ Automação & Cloud
-- **Power Automate (Power Platform):**
-  - Cloud Flows avançados  
-  - Integração com Teams, SharePoint, Outlook, APIs  
-  - Automações usando **modelos de IA personalizados** (classificação, extração, OCR, validação)  
-  - Pipelines de recebimento e processamento para TI/Finanças/Vendor Management  
-
-- **Azure DevOps:**
-  - Governança via **Backlog, Boards e Pipelines**  
-  - CI/CD estruturado  
-  - Gestão de demandas corporativas (refino, priorização, versionamento)
-
-## 🏆 Projetos Principais
-
-- **[Analisador-Sint-tico-C-ANSI](https://github.com/Gaspa04/Analisador-Sint-tico-C-ANSI)**  
-  Analisador sintático para C ANSI
-
-- **[ProjetoCalendarioPAA](https://github.com/Gaspa04/ProjetoCalendarioPAA)**  
-  Sistema de gerenciamento de calendário  
-
-- **[engenhariaSoftware](https://github.com/Gaspa04/engenhariaSoftware)**  
-  Sistema de reserva de mesas
-
-- **[Apl1-Est.-DadosII](https://github.com/Gaspa04/Apl1-Est.-DadosII)**  
-  Projeto acadêmico para JEAN Mackenzie
-
-- **[M-xicoGPT-Discord](https://github.com/Gaspa04/M-xicoGPT-Discord)**  
-  Bot de Discord usando GPT
-
-## 📊 Estatísticas do GitHub
-
-🌟 **Repositórios Públicos:** 17  
-👥 **Seguidores:** 14  
-👣 **Seguindo:** 19  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaspa04&show_icons=true&theme=radical)
-
-## 🔄 Atividade Recente
-
-- ⭐ Push em **Analisador-Sint-tico-C-ANSI**
-- ⭐ Criação de branch em **ProjetoCalendarioPAA**
-- ⭐ Abertura de issue em **engenhariaSoftware**
-- ⭐ Merge de PR em **Apl1-Est.-DadosII**
-- ⭐ Star em **M-xicoGPT-Discord**
-
-## 📝 Últimos Posts
-
-Ainda não há posts publicados.
-
-## 📬 Contato
-
-{}
+###
