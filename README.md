@@ -1,43 +1,81 @@
-## Hi there! 👋
+## Olá! 👋
 
-I'm **Felipe Gasparino**, a passionate developer with a knack for problem-solving and creating efficient solutions. My motto is: *Better to take a quick decision!*
+Sou **Felipe Gasparino**, um desenvolvedor apaixonado por resolver problemas e criar soluções eficientes.
 
-## About Me
+---
 
-I'm currently based in **5270** and work at **CHS**. With a strong background in programming and software development, I enjoy tackling new challenges and learning new technologies.
+> 
+> <div align="center">
+> 
+> <h2 style="font-size:32px;">🚀 Meu Lema</h2>
+> 
+> <h3 style="font-size:26px; font-weight:600;">“Melhor tomar uma decisão rápida!”</h3>
+> 
+> </div>
+> 
+---
 
-## Skills & Technologies
+## Sobre Mim
 
-c,java,html,css,git,docker,flask,react,vue,mysql,postgres,graphql,graphql,express,fastapi,aws
+Atualmente estou em **5270** e trabalho na **CHS**. Tenho experiência sólida em desenvolvimento de software, automações e cloud, sempre buscando evoluir e enfrentar novos desafios.
 
-## Top Projects
+## 🧠 Skills & Tecnologias
 
-- [Analisador-Sint-tico-C-ANSI](https://github.com/Gaspa04/Analisador-Sint-tico-C-ANSI) - A syntax analyzer for ANSI C (⭐ 0)
-- [ProjetoCalendarioPAA](https://github.com/Gaspa04/ProjetoCalendarioPAA) - A calendar management software (⭐ 0)
-- [engenhariaSoftware](https://github.com/Gaspa04/engenhariaSoftware) - Table reservation system (⭐ 0)
-- [Apl1-Est.-DadosII](https://github.com/Gaspa04/Apl1-Est.-DadosII) - Project for JEAN Mackenzie (⭐ 0)
-- [M-xicoGPT-Discord](https://github.com/Gaspa04/M-xicoGPT-Discord) - A Discord bot using GPT (⭐ 0)
+### 👨‍💻 Desenvolvimento
+- **Linguagens:** C, Java, HTML, CSS  
+- **Frameworks & Libs:** React, Vue, Express, Flask, FastAPI  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Outros:** Git, Docker, AWS, GraphQL
 
-## GitHub Stats
+### ⚙️ Automação & Cloud
+- **Power Automate (Power Platform):**
+  - Cloud Flows avançados  
+  - Integração com Teams, SharePoint, Outlook, APIs  
+  - Automações usando **modelos de IA personalizados** (classificação, extração, OCR, validação)  
+  - Pipelines de recebimento e processamento para TI/Finanças/Vendor Management  
 
-🌟 **Public Repositories:** 17  
-👥 **Followers:** 14  
-👣 **Following:** 19  
+- **Azure DevOps:**
+  - Governança via **Backlog, Boards e Pipelines**  
+  - CI/CD estruturado  
+  - Gestão de demandas corporativas (refino, priorização, versionamento)
+
+## 🏆 Projetos Principais
+
+- **[Analisador-Sint-tico-C-ANSI](https://github.com/Gaspa04/Analisador-Sint-tico-C-ANSI)**  
+  Analisador sintático para C ANSI
+
+- **[ProjetoCalendarioPAA](https://github.com/Gaspa04/ProjetoCalendarioPAA)**  
+  Sistema de gerenciamento de calendário  
+
+- **[engenhariaSoftware](https://github.com/Gaspa04/engenhariaSoftware)**  
+  Sistema de reserva de mesas
+
+- **[Apl1-Est.-DadosII](https://github.com/Gaspa04/Apl1-Est.-DadosII)**  
+  Projeto acadêmico para JEAN Mackenzie
+
+- **[M-xicoGPT-Discord](https://github.com/Gaspa04/M-xicoGPT-Discord)**  
+  Bot de Discord usando GPT
+
+## 📊 Estatísticas do GitHub
+
+🌟 **Repositórios Públicos:** 17  
+👥 **Seguidores:** 14  
+👣 **Seguindo:** 19  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaspa04&show_icons=true&theme=radical)
 
-## Recent Activity
+## 🔄 Atividade Recente
 
-- ⭐ Pushed to [Analisador-Sint-tico-C-ANSI](https://github.com/Gaspa04/Analisador-Sint-tico-C-ANSI)
-- ⭐ Created a new branch in [ProjetoCalendarioPAA](https://github.com/Gaspa04/ProjetoCalendarioPAA)
-- ⭐ Opened an issue in [engenhariaSoftware](https://github.com/Gaspa04/engenhariaSoftware)
-- ⭐ Merged PR in [Apl1-Est.-DadosII](https://github.com/Gaspa04/Apl1-Est.-DadosII)
-- ⭐ Starred [M-xicoGPT-Discord](https://github.com/Gaspa04/M-xicoGPT-Discord)
+- ⭐ Push em **Analisador-Sint-tico-C-ANSI**
+- ⭐ Criação de branch em **ProjetoCalendarioPAA**
+- ⭐ Abertura de issue em **engenhariaSoftware**
+- ⭐ Merge de PR em **Apl1-Est.-DadosII**
+- ⭐ Star em **M-xicoGPT-Discord**
 
-## Latest Blog Posts
+## 📝 Últimos Posts
 
-No blog posts available at the moment.
+Ainda não há posts publicados.
 
-## Connect with Me
+## 📬 Contato
 
 {}
